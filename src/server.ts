@@ -8,5 +8,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log("Servidos rodando em http://localhost:3000")
-})
+    console.log("Servidos rodando em http://localhost:3000");
+});
